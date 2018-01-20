@@ -1,5 +1,5 @@
-# ekhtsr.in
-ekhtsr.in is shortcut links site [http://ekhtsr.in](http://ekhtsr.in)
+# Ekhtsrni
+[http://ekhtsrni.herokuapp.com](Ekhtsrni) is shortcut links service
 
 ------------
 
@@ -17,4 +17,4 @@ License
 
 Released under the MIT License
 
-Copyright (c) 2015 [AliOsm](http://fb.com/Ali.L.Malak)
+Copyright (c) 2015 [AliOsm](http://fb.com/aliosm97)
