@@ -1,5 +1,5 @@
 # Ekhtsrni
-[http://ekhtsrni.herokuapp.com](Ekhtsrni) is shortcut links service
+[Ekhtsrni](http://ekhtsrni.herokuapp.com) is shortcut links service.
 
 ------------
 
