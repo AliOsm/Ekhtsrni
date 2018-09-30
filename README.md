@@ -12,9 +12,6 @@ Only clone this repository, run `bundle install` then `rake db:migrate` and have
 NOTE:
 You need to add one new user using seeds.rb file, you can go to seeds.rb file and replace stars '*' with your oun information then run `rake db:seed`
 
-License
-------------
+## License
+The project is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
 
-Released under the MIT License
-
-Copyright (c) 2015 [AliOsm](http://fb.com/aliosm97)
